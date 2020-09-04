@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e98db4e68e54bff45888134509291b25",
+    "revision": "1b407afbe1ce7473cee2e9893b2a7d4e",
     "url": "/coincap/index.html"
   },
   {
-    "revision": "c8bf03c652f0c8c2c35f",
+    "revision": "0a97d56c37b4aab10cfe",
     "url": "/coincap/static/css/main.5c89f017.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coincap/static/js/2.9213ffb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8bf03c652f0c8c2c35f",
-    "url": "/coincap/static/js/main.60b9a3cc.chunk.js"
+    "revision": "0a97d56c37b4aab10cfe",
+    "url": "/coincap/static/js/main.2e97a22e.chunk.js"
   },
   {
     "revision": "b463c5a5f314404573ac",
