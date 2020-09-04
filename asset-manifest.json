@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/coincap/static/css/main.5c89f017.chunk.css",
-    "main.js": "/coincap/static/js/main.2e97a22e.chunk.js",
-    "main.js.map": "/coincap/static/js/main.2e97a22e.chunk.js.map",
+    "main.js": "/coincap/static/js/main.c1e9156f.chunk.js",
+    "main.js.map": "/coincap/static/js/main.c1e9156f.chunk.js.map",
     "runtime-main.js": "/coincap/static/js/runtime-main.31922bda.js",
     "runtime-main.js.map": "/coincap/static/js/runtime-main.31922bda.js.map",
-    "static/js/2.9213ffb8.chunk.js": "/coincap/static/js/2.9213ffb8.chunk.js",
-    "static/js/2.9213ffb8.chunk.js.map": "/coincap/static/js/2.9213ffb8.chunk.js.map",
+    "static/js/2.3b5d43a0.chunk.js": "/coincap/static/js/2.3b5d43a0.chunk.js",
+    "static/js/2.3b5d43a0.chunk.js.map": "/coincap/static/js/2.3b5d43a0.chunk.js.map",
     "index.html": "/coincap/index.html",
-    "precache-manifest.64317e7db0da0b0218c537f9a2cc834d.js": "/coincap/precache-manifest.64317e7db0da0b0218c537f9a2cc834d.js",
+    "precache-manifest.ee801a88a62c8a46f1c02f38d2e9ac17.js": "/coincap/precache-manifest.ee801a88a62c8a46f1c02f38d2e9ac17.js",
     "service-worker.js": "/coincap/service-worker.js",
     "static/css/main.5c89f017.chunk.css.map": "/coincap/static/css/main.5c89f017.chunk.css.map",
-    "static/js/2.9213ffb8.chunk.js.LICENSE.txt": "/coincap/static/js/2.9213ffb8.chunk.js.LICENSE.txt"
+    "static/js/2.3b5d43a0.chunk.js.LICENSE.txt": "/coincap/static/js/2.3b5d43a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.31922bda.js",
-    "static/js/2.9213ffb8.chunk.js",
+    "static/js/2.3b5d43a0.chunk.js",
     "static/css/main.5c89f017.chunk.css",
-    "static/js/main.2e97a22e.chunk.js"
+    "static/js/main.c1e9156f.chunk.js"
   ]
 }
